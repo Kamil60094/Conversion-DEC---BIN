@@ -1,0 +1,49 @@
+*
+{
+    margin: 10px;
+    background-color: lightgray;
+}
+body,h1,div,label,input,h3,p
+{
+    background: white;
+}
+h1
+{
+    height: 20px;
+}
+button[class="gora"]
+{
+    background-color: white;
+    border: 0px;
+}
+button[id="Convert"]
+{
+    background-color: green;
+    border-radius: 10px;
+    height: 35px;
+    color: white;
+    border: 0px;
+}
+input
+{
+    width: 500px;
+    border: 1px solid lightgreen;
+    height: 20px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+p
+{
+    color: gray;
+}
+div[class="zmiana_miejsca"]
+{
+    display: flex;
+}
+body
+{
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    height: 300px;
+    width: 800px;
+}
